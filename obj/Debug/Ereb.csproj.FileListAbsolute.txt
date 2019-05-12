@@ -1,0 +1,10 @@
+D:\UTT\Mobilite\Kauno\POO\Project\Ereb\Ereb\bin\Debug\Ereb.exe.config
+D:\UTT\Mobilite\Kauno\POO\Project\Ereb\Ereb\bin\Debug\Ereb.exe
+D:\UTT\Mobilite\Kauno\POO\Project\Ereb\Ereb\bin\Debug\Ereb.pdb
+D:\UTT\Mobilite\Kauno\POO\Project\Ereb\Ereb\obj\Debug\Ereb.csprojAssemblyReference.cache
+D:\UTT\Mobilite\Kauno\POO\Project\Ereb\Ereb\obj\Debug\Ereb.Form1.resources
+D:\UTT\Mobilite\Kauno\POO\Project\Ereb\Ereb\obj\Debug\Ereb.Properties.Resources.resources
+D:\UTT\Mobilite\Kauno\POO\Project\Ereb\Ereb\obj\Debug\Ereb.csproj.GenerateResource.cache
+D:\UTT\Mobilite\Kauno\POO\Project\Ereb\Ereb\obj\Debug\Ereb.csproj.CoreCompileInputs.cache
+D:\UTT\Mobilite\Kauno\POO\Project\Ereb\Ereb\obj\Debug\Ereb.exe
+D:\UTT\Mobilite\Kauno\POO\Project\Ereb\Ereb\obj\Debug\Ereb.pdb
